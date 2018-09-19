@@ -1,10 +1,11 @@
 # rpi-timelapse
 raspberrry pi time lapse
 
-1. Install NOOBS onto the raspberry pi
-2. Clone this download
-3. Run setup.sh
-4. Follow command prompts
+1. Transfer NOOBS onto an empty SD card: https://www.raspberrypi.org/downloads/noobs/
+2. Download NOOBS onto the Raspberry Pi
+3. Clone this repository by typing into the command prompt: `git clone https://www.github.com/c-flory/rpi-timelapse`
+4. Run the setup by typing into the command prompt: `./home/pi/rpi-timelapse/setup.sh`
+5. Follow command prompts
 
 Note:
 A photo taken with the camera module will be around 2.4MB. This is about 425 photos per GB.
