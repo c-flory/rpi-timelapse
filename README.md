@@ -11,7 +11,7 @@ Start time is the hour in which you want the time lapse to begin (0 - 23).
 End time is the hour in which the time lapse is to end (0 - 23).
 Start day is the day in which the time lapse should begin (Mon - Fri)
 End day is the day in which the time lapse should end (Mon - Fri)
-Location is the location of camera, or any distinguishiable name you wish to give.
+Location is the location of camera, or any distinguishable name you wish to give.
 
 The Raspberry Pi will automatically reboot and be ready to go.
 
