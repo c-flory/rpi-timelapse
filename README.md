@@ -18,6 +18,9 @@ The Raspberry Pi will automatically reboot and be ready to go.
 Note:
 A photo taken with the camera module will be around 2.4MB. This is about 425 photos per GB.
 
+To reconfigure the time in the time lapse you can rerun the setup which will overwrite
+the original.
+
 This setup sets the camera to take a photo every minute.
 
 Taking 1 photo per minute would take up 1GB in about 7 hours. This is a rate of about 144MB per hour or 3.3GB per day.
